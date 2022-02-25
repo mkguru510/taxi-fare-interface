@@ -1,1 +1,1 @@
-web: pip install . -U && streamlit run api/run.py
+web: pip install . -U && streamlit run fast.py

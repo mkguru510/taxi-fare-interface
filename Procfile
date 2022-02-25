@@ -1,0 +1,1 @@
+web: pip install . -U && streamlit run api/run.py
